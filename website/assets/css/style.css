@@ -1,3 +1,35 @@
 body{
-    background: #ffffff;
+    background: white;
+    padding: 10px;
+   
+}
+.navbar{
+    background-color: black;
+}
+.imagen{
+    padding: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+
+.rounded-3 {
+    position: absolute;
+    top: 8%;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    background-color: white;
+    padding-left: 1px;
+    
+    
+}
+.p1{
+    position: absolute;
+    top: 33%;
+    display: flex;
+    justify-content: center;
+    font-size: 75px;
+    background-color: white;
+    
 }
