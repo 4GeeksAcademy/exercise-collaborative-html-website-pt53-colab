@@ -33,3 +33,11 @@ body{
     background-color: white;
     
 }
+
+hr.featurette-divider {
+    width: 75%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
